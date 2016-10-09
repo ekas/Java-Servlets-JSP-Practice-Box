@@ -1,4 +1,4 @@
-package com.nucleus.ekas.Servlet;
+package com.ekas.Servlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -10,8 +10,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import com.nucleus.ekas.DAO.LoginMain;
-import com.nucleus.ekas.ServiceLayer.ServiceLayer;
+import com.ekas.DAO.LoginMain;
+import com.ekas.ServiceLayer.ServiceLayer;
 
 /**
  * Servlet implementation class CartServlet

@@ -1,7 +1,7 @@
-package com.nucleus.ekas.ServiceLayer;
+package com.ekas.ServiceLayer;
 
-import com.nucleus.ekas.DAO.LoginMain;
-import com.nucleus.ekas.DAO.interDao;
+import com.ekas.DAO.LoginMain;
+import com.ekas.DAO.interDao;
 
 
 public class ServiceLayer {

@@ -1,4 +1,4 @@
-package com.nucleus.ekas.DAO;
+package com.ekas.DAO;
 
 import java.sql.*;
 
